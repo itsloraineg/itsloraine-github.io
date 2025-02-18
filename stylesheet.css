@@ -41,7 +41,7 @@ header nav ul li a:hover {
 
 /*　メインビジュアル　*/
 .main_visual {
-   background-image: url('../images/TAIWAN%20HEADER.gif');
+   background-image: url('../images/taiwanheader.jpg');
    background-size: cover;
    background-position: center top;
 
@@ -358,11 +358,4 @@ footer ul li a:hover {
   border-radius: 20px;
 }
 
-
-
-
-
-
-  
-  
 
